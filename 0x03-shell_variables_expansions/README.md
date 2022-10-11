@@ -1,2 +1,1 @@
-my first Readme
-expansions
+Display the first 10 lines of /etc/passwd
