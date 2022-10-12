@@ -1,2 +1,2 @@
-my first Readme
-shell_Redirections
+my readme file
+my readm file
